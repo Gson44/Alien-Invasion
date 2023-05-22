@@ -1,5 +1,5 @@
 import pygame
-from __builtin__ import False
+
 from pygame.sprite import Sprite
 class Ship(Sprite):
     

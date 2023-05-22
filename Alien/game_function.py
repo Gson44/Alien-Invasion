@@ -1,7 +1,7 @@
 import sys
 
 import pygame
-from __builtin__ import True, False
+
 from pickle import TRUE
 from bullet import  Bullet
 from alien import Alien

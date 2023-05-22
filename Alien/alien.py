@@ -1,6 +1,6 @@
 import pygame
 from pygame.sprite import Sprite
-from __builtin__ import True
+
 from pickle import TRUE
 class Alien(Sprite):
     
